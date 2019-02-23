@@ -26,7 +26,7 @@
   * [Angular 2](./doc/handbook/tutorials/Angular%202.md)
   * [從JavaScript轉移到TypeScript](./doc/handbook/tutorials/Migrating%20from%20JavaScript.md)
 * [手册](./doc/handbook/README.md)
-  * [基础类型](./doc/handbook/Basic%20Types.md)
+  * [基礎類別](./doc/handbook/Basic%20Types.md)
   * [变量声明](./doc/handbook/Variable%20Declarations.md)
   * [接口](./doc/handbook/Interfaces.md)
   * [类](./doc/handbook/Classes.md)
