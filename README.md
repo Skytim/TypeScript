@@ -4,15 +4,14 @@
 
 <img src="./misc/ts_logo.jpg" alt="TypeScript" width="24px" height="24px" style="vertical-align: bottom;">  [TypeScript 3.1 (September 27, 2018)](https://blogs.msdn.microsoft.com/typescript/2018/09/27/announcing-typescript-3-1/)
 |
-[版本发布说明](./doc/release-notes/TypeScript%203.1.md)
+[版本發布说明](./doc/release-notes/TypeScript%203.1.md)
 
-:heavy_check_mark: TypeScript语言用于大规模应用的JavaScript开发。  :heavy_check_mark: TypeScript支持类型，是JavaScript的超集且可以编译成纯JavaScript代码。  :heavy_check_mark: TypeScript兼容所有浏览器，所有宿主环境，所有操作系统。  :heavy_check_mark: TypeScript是开源的。
+:heavy_check_mark: TypeScript 用於大型JavaScript應用開發。  :heavy_check_mark: TypeScript支援型別，是JavaScript的超集且可以編譯成純JavaScript程式碼。  :heavy_check_mark: TypeScript支援所有瀏覽器，所有作業系统。  :heavy_check_mark: TypeScript是開源的。
 
-:book: [在GitBook网站上阅读本手册](http://zhongsp.gitbooks.io/typescript-handbook/content/)  :arrow_down: [下载本手册 PDF 版](https://legacy.gitbook.com/download/pdf/book/zhongsp/typescript-handbook)  :arrow_down: [下载本手册 Mobi 版](https://legacy.gitbook.com/download/mobi/book/zhongsp/typescript-handbook)  :arrow_down: [下载本手册 ePub 版](https://legacy.gitbook.com/download/epub/book/zhongsp/typescript-handbook)
 
-:link: [一大波新的快速开始指南：React，Angular，Nodejs，ASP.NET Core，React Native，Vue，Glimmer，WeChat，Dojo2，Knockout等](./doc/quick-start/README.md)
+:link: [新的快速開始指南：React，Angular，Nodejs，ASP.NET Core，React Native，Vue，Glimmer，WeChat，Dojo2，Knockout等](./doc/quick-start/README.md)
 
-<img src="./misc/reward.jpg" alt="Reward the Author" width="300px" height="300px" style="vertical-align: bottom;">  如果觉得不错可以微信打赏哟 <3
+
 
 ## 目录
 
@@ -22,10 +21,10 @@
   * [ASP.NET 4](./doc/handbook/tutorials/ASP.NET%204.md)
   * [Gulp](./doc/handbook/tutorials/Gulp.md)
   * [Knockout.js](./doc/handbook/tutorials/Knockout.md)
-  * [React与webpack](./doc/handbook/tutorials/React%20&%20Webpack.md)
+  * [React與webpack](./doc/handbook/tutorials/React%20&%20Webpack.md)
   * [React](./doc/handbook/tutorials/React.md)
   * [Angular 2](./doc/handbook/tutorials/Angular%202.md)
-  * [从JavaScript迁移到TypeScript](./doc/handbook/tutorials/Migrating%20from%20JavaScript.md)
+  * [從JavaScript轉移到TypeScript](./doc/handbook/tutorials/Migrating%20from%20JavaScript.md)
 * [手册](./doc/handbook/README.md)
   * [基础类型](./doc/handbook/Basic%20Types.md)
   * [变量声明](./doc/handbook/Variable%20Declarations.md)
@@ -114,10 +113,12 @@
 **TypeScript Handbook**
 
 * Read [TypeScript Handbook (Recommended, BUT not up to date officially)](http://www.typescriptlang.org/Handbook)
-* Read [TypeScript手册中文版 - Published with GitBook（持续更新中，最新版）](http://zhongsp.gitbooks.io/typescript-handbook/content/):book:
+
 
 **TypeScript Language Specification**
 
 * Read [TypeScript Language Specification](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md)
 
-I'd love for you to contribute to the translation:)
+**Original source**
+
+* TypeScript 簡體中文版(https://github.com/zhongsp/TypeScript)
